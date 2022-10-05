@@ -17,6 +17,6 @@ for (var i = 0; i < alunos.length; i ++){
 }
 console.log('')
 console.log('third mode.')
-for (aluno of alunos){
-    console.log(aluno);
+for (student of alunos){
+    console.log(student);
 } 
